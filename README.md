@@ -64,6 +64,7 @@ endmodule
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**:
+
 ![325337842-7e0f6896-c1df-46fc-a6de-9da95c62e0a6](https://github.com/HARISHA2006/D-FLIPDLOP-NEGEDGE/assets/148843830/3a0549f3-e548-40ce-a7b1-b76c61ed786f)
 
 
